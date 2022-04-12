@@ -3,8 +3,8 @@ from PyQt5.QtWidgets import QMainWindow, QApplication
 from funcao import *
 from designer import Ui_MainWindow
 
-'''Para funcionamento do programa é preciso instalar pyqt5, pygame, webbrowser, playsound.
-   Para edição da interface instale Qtdesigner
+'''Para funcionamento do programa é preciso instalar pyqt5, webbrowser, playsound.
+   Para edição da interface instale Qtdesigner.
    Caso deseja criar um executável com esse programa leia o README'''
 
 
