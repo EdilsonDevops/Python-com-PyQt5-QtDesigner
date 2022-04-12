@@ -6,7 +6,7 @@
  <img src="https://user-images.githubusercontent.com/96980587/162980521-946433e5-3fb2-42fc-9409-00d9aceec981.jpg"/>
 </div>
 
-- Para funcionamento correto do programa é preciso instalar pyqt5, webbrowser, playsound.<br>
+- Para o funcionamento correto do programa é preciso instalar pyqt5, webbrowser, playsound.<br>
 - Para edição da interface instale Qtdesigner.
 
 <div>
