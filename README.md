@@ -7,7 +7,7 @@
 </div>
 
 - Para o funcionamento correto do programa é preciso instalar pyqt5, webbrowser, playsound.<br>
-- Para edição da interface instale Qtdesigner.
+- Para edição da interface gráfica instale Qtdesigner.
 
 <div>
  &ensp;
