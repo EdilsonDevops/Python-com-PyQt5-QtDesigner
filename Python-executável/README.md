@@ -5,6 +5,6 @@
 4. Enter
 5. Após finalizar a criação entre em dist/main/crie um atalho do main exe 
 6. execute
-7. caso não abra entre na pasta que estava o arquivo py , copie a pasta img, music, designer e os arquivos icon, designer.ui para dentro da pasta main 
+7. caso não abra entre na pasta que estava o arquivo py , copie a pasta img, music, designer, funcao e os arquivos icon, designer.ui para dentro da pasta main 
 
 Veja este video para auxiliar [Youtube](https://www.youtube.com/watch?v=m49ftKzge0k/)
