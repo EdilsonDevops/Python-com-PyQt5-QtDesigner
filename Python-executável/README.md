@@ -1,5 +1,5 @@
 # python executável
-1. instalar o pyinstaller - pip install pyinstaller
+1. instalar o pyinstaller - pip install pyinstaller/ pipenv install pyinstaller
 2. Entrar na pasta que está o arquivo .py pelo cmd usando cd
 3. Em seguida digite pyinstaller --windowed nomedoarquivo.py
 4. Enter
